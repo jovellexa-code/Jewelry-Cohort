@@ -35,7 +35,7 @@ The project follows this structured approach:
 
 ## 📂 Dataset
 Data was obtained from a jewelry e-commerce platform and includes:
-| **  Feature ** |     **  Description **     |
+|   Feature |      Description      |
 |:--------------:|:--------------------------:|
 |   InvoiceNo    |   Transaction code         |
 |   CustomerID   |   Unique buyer identifier  |
