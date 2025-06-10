@@ -8,7 +8,8 @@ The dataset spans from 2018 to 2021, a period marked by major shifts such as the
 ## 🧠 Business Understanding
 Jewelry purchases often reflect both emotional and investment value. However, the company faces challenges retaining high-value customers. Without knowing which cohorts perform best, marketing efforts risk being ineffective or misallocated.
 
-### Main Objective: 🎯 Improve customer retention by 10% in 6 months by understanding and acting upon insights from top-performing cohorts.
+### Main Objective: 
+🎯 Improve customer retention by 10% in 6 months by understanding and acting upon insights from top-performing cohorts.
 
 ## 📊 Methodology
 The project follows this structured approach:
@@ -56,6 +57,6 @@ Insights from cohort retention will support:
 * Benchmarking retention KPIs by cohort
 
 ## 👤 Author
-Kaila Amira Azzahra
-Meriani Alexandra
-Nadame Kristina
+1. Kaila Amira Azzahra
+2. Meriani Alexandra
+3. Nadame Kristina
