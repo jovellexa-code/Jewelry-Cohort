@@ -1,5 +1,5 @@
 # 💎 Decoding Luxury Buying Behavior: Cohort Retention Analysis of a Jewelry E-Commerce (2018–2021)
-Final Project | Customer Analytics & Retention Strategy
+Portofolio Project | Customer Analytics & Retention Strategy
 
 ## 📌 Overview
 This project investigates customer retention behavior in a jewelry e-commerce business using Cohort Analysis. By segmenting users based on their first purchase month, we identify which customer groups show long-term loyalty and which drop off early — revealing insights for targeted engagement strategies.
@@ -35,12 +35,13 @@ The project follows this structured approach:
 
 ## 📂 Dataset
 Data was obtained from a jewelry e-commerce platform and includes:
-Feature	Description
-InvoiceNo	Transaction code
-CustomerID	Unique buyer identifier
-InvoiceDate	Purchase date
-Quantity	Items bought
-Price	Item price
+| **  Feature ** |     **  Description **     |
+|:--------------:|:--------------------------:|
+|   InvoiceNo    |   Transaction code         |
+|   CustomerID   |   Unique buyer identifier  |
+|   InvoiceDate  |   Purchase date            |
+|   Quantity     |   Items bought             |
+|   Price        |   Item price               |
 
 ## 🛠️ Tools & Libraries
 * Python 3.9+
